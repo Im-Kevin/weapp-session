@@ -3,6 +3,7 @@ module.exports = {
         WX_CODE: 'X-WX-Code',
         WX_RAW_DATA: 'X-WX-RawData',
         WX_SIGNATURE: 'X-WX-Signature',
+        WX_ENCRYPTED_DATA:'X-WX-EncryptedData'
     },
 
     errors: {
